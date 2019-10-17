@@ -18,3 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ## references
 
 Vim plugin: https://github.com/dart-lang/dart-vim-plugin
+
+```
+:let dart_style_guide = 2
+:let dart_format_on_save = 1
+```
+
