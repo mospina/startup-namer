@@ -1,21 +1,22 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter project.
+A Flutter project from codelabs: 
+- [First part](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1)
+- [Second part](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2)
 
-## Getting Started
+## Flutter commands
 
-This project is a starting point for a Flutter application.
+Common flutter commands
 
-A few resources to get you started if this is your first Flutter project:
+```
+$ flutter create startup_namer
+$ cd startup_namer/
+$ flutter doctor
+$ flutter devices
+$ flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## references
+## Dart and Vi
 
 Vim plugin: https://github.com/dart-lang/dart-vim-plugin
 
