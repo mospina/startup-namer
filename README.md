@@ -6,7 +6,7 @@ A Flutter project from codelabs:
 
 ## Flutter commands
 
-Common flutter commands
+Common flutter commands:
 
 ```
 $ flutter create startup_namer
@@ -25,3 +25,13 @@ Vim plugin: https://github.com/dart-lang/dart-vim-plugin
 :let dart_format_on_save = 1
 ```
 
+## Emulator and screen
+
+Running a emulator inside screen:
+
+```
+$ screen -S
+$ cd ~/Android/Sdk/emulator
+$ emulator -avd Pixel_2_API_29
+$ CTRL a d
+```
